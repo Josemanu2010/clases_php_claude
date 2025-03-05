@@ -19,6 +19,7 @@ $i = 0;
 
 // num = 6
 // num = 12
+// Array indexado
 
 while (true) {
     echo 'Ingrese un número: ';
@@ -39,4 +40,17 @@ while (true) {
 
 
 
+
+
+
+// $nombre1 = ['jose', 'pepe', 'Diana', 'Teresa'];
+// echo $nombre1[3];
+
+// $nombre2 = [
+//     // Llave  =>  Valor
+//     'nombre1' => 'Jose',
+//     'nombre2' => 'Pepe',
+//     'nombre3' => 'Diana',
+// ];
+// echo $nombre2['nombre3'];
 
